@@ -5,6 +5,7 @@ This repository contains code for integrating Google Generative AI (Gemini) serv
 **Setup Instructions**
 
 **1. Prerequisites**
+
 Node.js (version >= 14.0.0)
 
 npm (Node Package Manager)
@@ -38,8 +39,11 @@ This will start the Node.js server that interacts with the Gemini API.
 **6.Start the frontend development server:**
 
 cd client
+
 npm install
+
 npm start
+
 This will start the React development server for the frontend.
 
 **7.Open your browser and navigate to http://localhost:3000 to interact with the chatbot.**
