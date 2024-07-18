@@ -29,7 +29,7 @@ const ChatWindow = ({ onClose }) => {
       </div>
 
       {/* Chat messages */}
-      <div className="p-4 max-h-96 overflow-y-auto">
+      <div className="p-12 max-h-96 overflow-y-auto">
         {messages.map((msg, index) => (
           <div key={index} className={`my-2 ${msg.sender === 'bot' ? 'text-left' : 'text-right'}`}>
             <p className="p-2 rounded-lg inline-block bg-gray-100 shadow-sm">
