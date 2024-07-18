@@ -1,0 +1,28 @@
+/* src/pages/Home.css */
+.home-page {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sidebar-title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .nav-link {
+    margin-bottom: 0.5rem;
+  }
+  
+  .main-content {
+    background-color: #f8f9fa;
+    height: 100%;
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
