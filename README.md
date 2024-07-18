@@ -1,4 +1,5 @@
 **Sparrow Chatbot with Gemini Service**
+
 This repository contains code for integrating Google Generative AI (Gemini) services into a chatbot application using Node.js for the backend and React for the frontend.
 
 **Setup Instructions**
