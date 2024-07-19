@@ -1,4 +1,6 @@
 **Spot : The Sparrow Chatbot with Gemini Service**
+![image](https://github.com/user-attachments/assets/3b02958f-fcf1-4002-b18f-4c5de6134f5c)
+
 
 This repository contains code for integrating Google Generative AI (Gemini) services into a chatbot application using Node.js for the backend and React for the frontend.
 Spot is an AI-powered conversational assistant designed to provide users with informative, engaging, and accurate responses. By leveraging the capabilities of Google Generative AI (Gemini), the chatbot can understand natural language queries and generate contextually relevant answers. Whether you're looking for detailed explanations, troubleshooting help, or general information about Sparrow: The API Management Tool, Spot is here to assist you.
