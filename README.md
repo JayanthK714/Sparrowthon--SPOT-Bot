@@ -39,14 +39,4 @@ npm start
 
 This will start the Node.js server that interacts with the Gemini API.
 
-**6.Start the frontend development server:**
-
-cd client
-
-npm install
-
-npm start
-
-This will start the React development server for the frontend.
-
-**7.Open your browser and navigate to http://localhost:3000 to interact with the chatbot.**
+**6.Open your browser and navigate to http://localhost:3000 to interact with the chatbot.**
